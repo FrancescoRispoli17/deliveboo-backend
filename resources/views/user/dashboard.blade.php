@@ -161,7 +161,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-lg-4 col-md-12 mt-md-5 mt-lg-0 pe-5">
-                                                <h2>Top 5 Piatti del mese</h2>
+                                                <h2>Top 5 Piatti del mesea</h2>
                                                 <div class="w-md-100 canvas">
                                                     <canvas id="doughnutChart"></canvas>
                                                 </div>
